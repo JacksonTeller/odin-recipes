@@ -1,0 +1,16 @@
+* {
+    background-color: rgb(88, 184, 88);
+}
+
+h1 {
+    color: black; 
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+ul {
+    color: blue; 
+    background-color: rgb(241, 206, 154); 
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 32px;
+    font-weight: 700;
+}
